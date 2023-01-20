@@ -5,3 +5,5 @@ El  objetivo del prototipo se centraba en evitar que personas perdieran sus mano
 Gracias a este trabajo, obtuvimos el Primer puesto en la Categoría D en el evento "Todos podemos programar", organizado en Junio del 2016 por el Semillero de Emprendimiento en TIC - StartTic de la Universidad del Cauca.
 
 Realizado por: Yeison E. Caicedo y Andrés S. Garzón.
+
+![Image text](https://github.com/AndresGarzonJ/ManoRobotica/blob/master/ManoRobotica.png)
